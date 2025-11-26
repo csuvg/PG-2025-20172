@@ -1,0 +1,703 @@
+DEPARTAMENTO_NORM,MUNICIPIO_NORM_MATCH,cementerio,centro comunitario,centro de atención permanente,centro de salud,direccion,escuela,hospital,otro,puesto de salud
+alta verapaz,actela,0,0,0,0,0,0,0,0,1
+alta verapaz,bolonco,0,0,0,0,0,0,0,0,1
+alta verapaz,cahabon,0,0,1,0,0,0,0,0,0
+alta verapaz,cahaboncito,0,0,0,0,0,0,0,0,1
+alta verapaz,campat,0,0,0,0,0,0,0,0,1
+alta verapaz,campur / carcha,0,0,1,0,0,0,0,0,0
+alta verapaz,caquigual,0,0,0,0,0,0,0,0,1
+alta verapaz,carcha,0,0,1,0,0,0,0,0,0
+alta verapaz,chacalte,0,0,0,0,0,0,0,0,1
+alta verapaz,chahal,0,0,1,0,0,0,0,0,0
+alta verapaz,chajmaic,0,0,0,0,0,0,0,0,1
+alta verapaz,chamelco,0,0,1,0,0,0,0,0,0
+alta verapaz,chamil,0,0,0,0,0,0,0,0,1
+alta verapaz,chiacal,0,0,0,0,0,0,0,0,1
+alta verapaz,chijou,0,0,0,0,0,0,0,0,1
+alta verapaz,chisec,0,0,1,0,0,0,0,0,0
+alta verapaz,chitocan i,0,0,0,0,0,0,0,0,1
+alta verapaz,choval,0,0,0,0,0,0,0,0,1
+alta verapaz,coban,0,0,0,0,0,1,1,2,0
+alta verapaz,cojaj,0,0,0,0,0,0,0,0,1
+alta verapaz,cucanja,0,0,0,0,0,0,0,0,1
+alta verapaz,el rancho,0,0,0,0,0,0,0,0,1
+alta verapaz,fray bartolome de las casas,0,0,0,0,0,0,1,0,0
+alta verapaz,la tinta,0,0,0,1,0,0,0,0,0
+alta verapaz,lanquin,0,0,1,0,0,0,0,0,0
+alta verapaz,las camelias,0,0,0,0,0,0,0,0,1
+alta verapaz,najquitob,0,0,0,0,0,0,0,0,1
+alta verapaz,palestina,0,0,0,0,0,0,0,0,1
+alta verapaz,panzos,0,0,1,0,0,0,0,0,0
+alta verapaz,pasmolon,0,0,0,0,0,0,0,0,1
+alta verapaz,pocola,0,0,0,0,0,0,0,0,1
+alta verapaz,puribal,0,0,0,0,0,0,0,0,1
+alta verapaz,raxquix,0,0,0,0,0,0,0,0,1
+alta verapaz,raxruha,0,0,0,0,0,0,0,0,1
+alta verapaz,sacquil,0,0,0,0,0,0,0,0,1
+alta verapaz,salacuim,0,0,0,0,0,0,0,0,1
+alta verapaz,san agustin,0,0,0,0,0,0,0,0,1
+alta verapaz,san cristobal verapaz,0,0,0,0,0,0,0,1,0
+alta verapaz,santa cecilia chajaneb,0,0,0,0,0,0,0,0,1
+alta verapaz,santa cruz verapaz,0,0,1,0,0,0,0,0,0
+alta verapaz,santa elena,0,0,0,0,0,0,0,0,1
+alta verapaz,saxoc,0,0,0,0,0,0,0,0,1
+alta verapaz,secocpur,0,0,0,0,0,0,0,0,1
+alta verapaz,semesche,0,0,0,0,0,0,0,0,1
+alta verapaz,senahu,0,0,1,0,0,0,0,0,0
+alta verapaz,sepoc,0,0,0,0,0,0,0,0,1
+alta verapaz,tactic,0,0,1,0,0,0,0,0,0
+alta verapaz,tamahu,0,0,1,0,0,0,0,0,0
+alta verapaz,teleman / panzos,0,0,1,0,0,0,0,0,0
+alta verapaz,tucuru,0,0,1,0,0,0,0,0,0
+alta verapaz,tuila,0,0,0,0,0,0,0,0,1
+baja verapaz,agua caliente,0,0,0,0,0,0,0,0,1
+baja verapaz,cebollal,0,0,0,0,0,0,0,0,1
+baja verapaz,chiac,0,0,0,0,0,0,0,0,1
+baja verapaz,chicholom,0,0,0,0,0,0,0,0,1
+baja verapaz,chicruz,0,0,0,0,0,0,0,0,1
+baja verapaz,chicuxtin,0,0,0,0,0,0,0,0,1
+baja verapaz,chilajon,0,0,0,0,0,0,0,0,1
+baja verapaz,chilasco,0,0,0,0,0,0,0,0,1
+baja verapaz,chirramos,0,0,0,0,0,0,0,0,1
+baja verapaz,chirrum,0,0,0,0,0,0,0,0,1
+baja verapaz,chiticoy,0,0,0,0,0,0,0,0,1
+baja verapaz,chitomax,0,0,0,0,0,0,0,0,1
+baja verapaz,chivaquito,0,0,0,0,0,0,0,0,1
+baja verapaz,chixolop,0,0,0,0,0,0,0,0,1
+baja verapaz,choven,0,0,0,0,0,0,0,0,1
+baja verapaz,chuachacalte,0,0,0,0,0,0,0,0,1
+baja verapaz,chuaperol,0,0,0,0,0,0,0,0,1
+baja verapaz,chuategua arriba,0,0,0,0,0,0,0,0,1
+baja verapaz,chupel,0,0,0,0,0,0,0,0,1
+baja verapaz,cimietos cala,0,0,0,0,0,0,0,0,1
+baja verapaz,civija,0,0,0,0,0,0,0,0,1
+baja verapaz,cola de mico,0,0,0,0,0,0,0,0,1
+baja verapaz,colonia el naranjo,0,0,0,0,0,0,0,0,1
+baja verapaz,concul,0,0,0,0,0,0,0,0,1
+baja verapaz,cruz de piedra,0,0,0,0,0,0,0,0,1
+baja verapaz,cubulco,0,0,1,0,0,0,0,0,0
+baja verapaz,eben-ezer,0,0,0,0,0,0,0,0,1
+baja verapaz,el amate,0,0,0,0,0,0,0,0,1
+baja verapaz,el astillero,0,0,0,0,0,0,0,0,1
+baja verapaz,el cacao,0,0,0,0,0,0,0,0,1
+baja verapaz,el chol,0,0,1,0,0,0,0,0,0
+baja verapaz,el colmenar,0,0,0,0,0,0,0,0,1
+baja verapaz,el comunal,0,0,0,0,0,0,0,0,1
+baja verapaz,el esfuerzo chejel,0,0,0,0,0,0,0,0,1
+baja verapaz,el jicaro,0,0,0,0,0,0,0,0,1
+baja verapaz,el nance,0,0,0,0,0,0,0,0,1
+baja verapaz,el tablon,0,0,0,0,0,0,0,0,1
+baja verapaz,el tempisque,0,0,0,0,0,0,0,0,1
+baja verapaz,granados,0,0,0,1,0,0,0,0,0
+baja verapaz,guachipilin,0,0,0,0,0,0,0,0,1
+baja verapaz,helvetia,0,0,0,0,0,0,0,0,1
+baja verapaz,herederos,0,0,0,0,0,0,0,0,1
+baja verapaz,ixchel,0,0,0,0,0,0,0,0,1
+baja verapaz,jalaute,0,0,0,0,0,0,0,0,1
+baja verapaz,joya de ramos,0,0,0,0,0,0,0,0,1
+baja verapaz,la canoa,0,0,0,0,0,0,0,0,1
+baja verapaz,la ceiba,0,0,0,0,0,0,0,0,1
+baja verapaz,la estancia,0,0,0,0,0,0,0,0,1
+baja verapaz,la laguna patzijom,0,0,0,0,0,0,0,0,1
+baja verapaz,la pinada,0,0,0,0,0,0,0,0,1
+baja verapaz,las anonas,0,0,0,0,0,0,0,0,1
+baja verapaz,las cuevas,0,0,0,0,0,0,0,0,1
+baja verapaz,las limas,0,0,0,0,0,0,0,0,1
+baja verapaz,las minas,0,0,0,0,0,0,0,0,1
+baja verapaz,llano grande,0,0,0,0,0,0,0,0,1
+baja verapaz,lo de gomez,0,0,0,0,0,0,0,0,1
+baja verapaz,los amates,0,0,0,0,0,0,0,0,1
+baja verapaz,los cerritos,0,0,0,0,0,0,0,0,1
+baja verapaz,los chuyes,0,0,0,0,0,0,0,0,1
+baja verapaz,los jobos,0,0,0,0,0,0,0,0,1
+baja verapaz,manzanote,0,0,0,0,0,0,0,0,1
+baja verapaz,matanzas,0,0,0,0,0,0,0,0,1
+baja verapaz,mocohan,0,0,0,0,0,0,0,0,1
+baja verapaz,monjon,0,0,0,0,0,0,0,0,1
+baja verapaz,monte blanco,0,0,0,0,0,0,0,0,1
+baja verapaz,nimacabaj,0,0,0,0,0,0,0,0,1
+baja verapaz,nuevo amanecer,0,0,0,0,0,0,0,0,1
+baja verapaz,ojo de agua,0,0,0,0,0,0,0,0,1
+baja verapaz,pacalaj,0,0,0,0,0,0,0,0,1
+baja verapaz,pachalum,0,0,0,0,0,0,0,0,1
+baja verapaz,pachojop,0,0,0,0,0,0,0,0,1
+baja verapaz,pacux,0,0,0,0,0,0,0,0,1
+baja verapaz,pahoj,0,0,0,0,0,0,0,0,1
+baja verapaz,pajales,0,0,0,0,0,0,0,0,1
+baja verapaz,pamiscalche,0,0,0,0,0,0,0,0,1
+baja verapaz,pampacay,0,0,0,0,0,0,0,0,1
+baja verapaz,panchisivic,0,0,0,0,0,0,0,0,1
+baja verapaz,panima,0,0,0,0,0,0,0,0,1
+baja verapaz,panimaquito,0,0,0,0,0,0,0,0,1
+baja verapaz,patzocom,0,0,0,0,0,0,0,0,1
+baja verapaz,patzulup,0,0,0,0,0,0,0,0,1
+baja verapaz,piedras blancas alibalabaj,0,0,0,0,0,0,0,0,1
+baja verapaz,plan sanchez,0,0,0,0,0,0,0,0,1
+baja verapaz,portezuelo volcancillo,0,0,0,0,0,0,0,0,1
+baja verapaz,purulha,0,0,1,0,0,0,0,0,0
+baja verapaz,quebrada honda,0,0,0,0,0,0,0,0,1
+baja verapaz,rabinal,0,0,1,0,0,0,0,0,0
+baja verapaz,rancho viejo,0,0,0,0,0,0,0,0,1
+baja verapaz,raxjuth,0,0,0,0,0,0,0,0,1
+baja verapaz,rio negro,0,0,0,0,0,0,0,0,1
+baja verapaz,rivaco,0,0,0,0,0,0,0,0,1
+baja verapaz,rodeo las vegas,0,0,0,0,0,0,0,0,1
+baja verapaz,sacaquej,0,0,0,0,0,0,0,0,1
+baja verapaz,sacsamani,0,0,0,0,0,0,0,0,1
+baja verapaz,salama,0,0,0,1,0,0,1,1,0
+baja verapaz,saltan,0,0,0,0,0,0,0,0,1
+baja verapaz,san francisco,0,0,0,0,0,0,0,0,1
+baja verapaz,san gabriel,0,0,0,0,0,0,0,0,1
+baja verapaz,san ignacio,0,0,0,0,0,0,0,0,1
+baja verapaz,san isidro,0,0,0,0,0,0,0,0,1
+baja verapaz,san jeronimo,0,0,1,1,0,0,0,0,0
+baja verapaz,san jose el rodeo,0,0,0,0,0,0,0,0,1
+baja verapaz,san miguel chicaj,0,0,1,0,0,0,0,0,0
+baja verapaz,san rafael,0,0,0,0,0,0,0,0,1
+baja verapaz,sangre de cristo,0,0,0,0,0,0,0,0,1
+baja verapaz,santa ana pichec,0,0,0,0,0,0,0,0,1
+baja verapaz,santa barbara,0,0,0,0,0,0,0,0,1
+baja verapaz,santa cruz,0,0,0,0,0,0,0,0,1
+baja verapaz,santa ines ii,0,0,0,0,0,0,0,0,1
+baja verapaz,santa rita,0,0,0,0,0,0,0,0,1
+baja verapaz,santa rosa,0,0,0,0,0,0,0,0,1
+baja verapaz,sibabaj,0,0,0,0,0,0,0,0,1
+baja verapaz,sutun,0,0,0,0,0,0,0,0,1
+baja verapaz,tres cruces,0,0,0,0,0,0,0,0,1
+baja verapaz,turbala,0,0,0,0,0,0,0,0,1
+baja verapaz,union barrios,0,0,0,0,0,0,0,0,1
+baja verapaz,ventanas,0,0,0,0,0,0,0,0,1
+baja verapaz,westfalea (westfalia),0,0,0,0,0,0,0,0,1
+baja verapaz,xeul pajales,0,0,0,0,0,0,0,0,1
+baja verapaz,xeyoch,0,0,0,0,0,0,0,0,1
+baja verapaz,xibalba,0,0,0,0,0,0,0,0,1
+baja verapaz,xococ,0,0,0,0,0,0,0,0,1
+baja verapaz,xun,0,0,0,0,0,0,0,0,1
+chimaltenango,acatenango,0,0,0,1,0,0,0,0,0
+chimaltenango,c.c. santo domingo,0,1,0,0,0,0,0,0,0
+chimaltenango,caliaj,0,0,0,0,0,0,0,0,1
+chimaltenango,chimachoy,0,0,0,0,0,0,0,0,1
+chimaltenango,chimaltenango,0,0,0,1,0,0,1,1,0
+chimaltenango,chimazat,0,0,0,0,0,0,0,0,1
+chimaltenango,chipata,0,0,0,0,0,0,0,0,1
+chimaltenango,chuatzunuj,0,1,0,0,0,0,0,0,0
+chimaltenango,el tejar,0,0,0,1,0,0,0,0,0
+chimaltenango,hacienda maria,0,0,0,0,0,0,0,0,1
+chimaltenango,la bendicion,0,1,0,0,0,0,0,0,0
+chimaltenango,morelia,0,0,0,0,0,0,0,0,1
+chimaltenango,pahuit,0,0,0,0,0,0,0,0,1
+chimaltenango,palama tecpan,0,0,0,0,0,0,0,0,1
+chimaltenango,paquip,0,0,0,1,0,0,0,0,0
+chimaltenango,paquip tecpan,0,0,0,1,0,0,0,0,0
+chimaltenango,parramos,0,0,0,2,0,0,0,0,0
+chimaltenango,parrojas,0,0,0,0,0,0,0,0,1
+chimaltenango,patzicia,0,0,0,2,0,0,0,0,0
+chimaltenango,patzun,0,0,0,2,0,0,0,2,0
+chimaltenango,rincon chiquito,0,1,0,0,0,0,0,0,0
+chimaltenango,sacala las lomas,0,0,0,0,0,0,0,0,1
+chimaltenango,san andres itzapa,0,0,0,1,0,0,0,0,0
+chimaltenango,san antonio nejapa,0,0,0,0,0,0,0,0,1
+chimaltenango,san francisco,0,1,0,0,0,0,0,0,0
+chimaltenango,san jacinto,0,0,0,0,0,0,0,0,1
+chimaltenango,san jose  xepatan,0,0,0,0,0,0,0,0,1
+chimaltenango,san jose poaquil,0,0,0,1,0,0,0,0,0
+chimaltenango,san juan comalapa,0,0,1,0,0,0,0,0,0
+chimaltenango,san martin jilotepeque,0,0,0,2,0,0,0,0,0
+chimaltenango,san miguel pochuta,0,0,1,0,0,0,0,0,0
+chimaltenango,san pedro yecopaca,0,0,1,0,0,0,0,0,0
+chimaltenango,santa apolonia,0,0,0,2,0,0,0,0,0
+chimaltenango,santa cruz balanya,0,0,0,2,0,0,0,0,0
+chimaltenango,simajhuleu,0,0,0,0,0,0,0,0,1
+chimaltenango,tecpan guatemala,0,0,0,1,0,0,0,0,0
+chimaltenango,zaragoza,0,0,0,1,0,0,0,0,0
+chiquimula,chiquimula,0,0,0,0,0,0,1,1,0
+el progreso,el jicaro,0,0,0,1,0,0,0,1,0
+el progreso,guastatoya,0,0,0,1,0,0,1,1,1
+el progreso,morazan,0,0,0,1,0,0,0,1,0
+el progreso,san agustin acasaguatlan,0,0,1,0,0,0,0,1,1
+el progreso,san antonio la paz,0,0,0,1,0,0,0,1,1
+el progreso,san cristobal acasaguastlan,0,0,0,1,0,0,0,1,0
+el progreso,sanarate,0,0,0,1,0,0,0,1,1
+el progreso,sansare,0,0,0,1,0,0,0,1,1
+escuintla,escuintla,0,1,0,1,0,0,1,1,1
+escuintla,guanagazapa,0,0,0,1,0,0,0,0,1
+escuintla,iztapa,0,0,1,0,0,0,0,0,1
+escuintla,la democracia,0,0,1,0,0,0,0,0,1
+escuintla,la gomera,0,0,1,0,0,0,0,0,1
+escuintla,masagua,0,0,1,0,0,0,0,0,1
+escuintla,nueva concepcion,0,0,1,1,0,0,0,0,1
+escuintla,palin,0,1,0,1,0,0,0,0,0
+escuintla,san jose,0,0,1,0,0,0,0,0,1
+escuintla,san vicente pacaya,0,0,0,0,0,0,0,1,1
+escuintla,santa lucia cotzumalguapa,0,0,1,0,0,0,0,0,1
+escuintla,sipacate,0,0,0,1,0,0,0,0,1
+escuintla,siquinala,0,0,0,1,0,0,0,0,0
+escuintla,tiquisate,0,0,0,1,0,0,0,0,1
+guatemala,amatitlan,0,0,0,1,0,0,0,1,1
+guatemala,barcenas,0,0,0,0,0,0,0,0,1
+guatemala,chinautla,0,0,0,1,0,0,0,0,1
+guatemala,chuarrancho,0,0,0,1,0,0,0,0,1
+guatemala,ciudad quetzal,0,0,1,0,0,0,0,0,1
+guatemala,ciudad real,0,0,0,1,0,0,0,0,0
+guatemala,ciudad satelite,0,0,0,1,0,0,0,0,0
+guatemala,el milagro,0,0,0,1,0,0,0,0,1
+guatemala,fraijanes,0,0,1,0,0,0,0,0,1
+guatemala,guatemala,1,0,0,1,1,1,1,2,0
+guatemala,mezquital,0,0,0,1,0,0,0,0,0
+guatemala,mixco,0,0,1,0,0,0,0,0,1
+guatemala,palencia,0,0,1,0,0,0,0,0,1
+guatemala,peronia,0,0,0,1,0,0,0,0,0
+guatemala,primero de julio,0,0,0,1,0,0,0,1,1
+guatemala,san jose del golfo,0,0,1,0,0,0,0,0,1
+guatemala,san jose pinula,0,0,0,1,0,0,0,0,1
+guatemala,san juan sacatepequez,0,0,1,1,0,0,0,0,1
+guatemala,san miguel petapa,0,0,0,1,0,0,0,0,1
+guatemala,san pedro ayampuc,0,0,0,1,0,0,0,0,1
+guatemala,san raymundo,0,0,0,1,0,0,0,0,1
+guatemala,santa catarina pinula,0,0,1,0,0,0,0,0,1
+guatemala,tierra nueva,0,0,1,0,0,0,0,0,1
+guatemala,villa canales,0,0,0,1,0,0,0,0,1
+guatemala,villa nueva,0,0,0,1,0,0,0,0,1
+huehuetenango,aguacatan,0,0,1,0,0,0,0,0,0
+huehuetenango,cap colotenango,0,0,0,0,0,0,0,1,0
+huehuetenango,chiantla,0,0,0,1,0,0,0,0,0
+huehuetenango,concepcion huista,0,0,0,1,0,0,0,0,0
+huehuetenango,cuilco,0,0,0,0,0,0,0,1,0
+huehuetenango,el calvario,0,0,0,1,0,0,0,0,0
+huehuetenango,huehuetenango,0,0,0,1,0,0,1,1,0
+huehuetenango,ixtahuacan,0,0,1,0,0,0,0,0,0
+huehuetenango,jacaltenango,0,0,1,0,0,0,0,0,0
+huehuetenango,la democracia,0,0,1,0,0,0,0,0,0
+huehuetenango,la libertad,0,0,1,0,0,0,0,0,0
+huehuetenango,malacatancito,0,0,0,1,0,0,0,0,0
+huehuetenango,nenton,0,0,1,0,0,0,0,0,0
+huehuetenango,petatan,0,0,0,1,0,0,0,0,0
+huehuetenango,san antonio huista,0,0,1,0,0,0,0,0,0
+huehuetenango,san gaspar ixchil,0,0,1,0,0,0,0,0,0
+huehuetenango,san juan atitan,0,0,1,0,0,0,0,0,0
+huehuetenango,san juan ixcoy,0,0,1,0,0,0,0,0,0
+huehuetenango,san mateo ixtatan,0,0,1,0,0,0,0,0,0
+huehuetenango,san miguel acatan,0,0,1,0,0,0,0,0,0
+huehuetenango,san pedro necta,0,0,0,1,0,0,0,0,0
+huehuetenango,san pedro soloma,0,0,0,0,0,0,0,1,0
+huehuetenango,san rafael la independencia,0,0,0,1,0,0,0,0,0
+huehuetenango,san rafael petzal,0,0,1,0,0,0,0,0,0
+huehuetenango,san sebastian coatan,0,0,0,0,0,0,0,0,1
+huehuetenango,san sebastian huehuetenango,0,0,1,0,0,0,0,0,0
+huehuetenango,santa ana huista,0,0,1,0,0,0,0,0,0
+huehuetenango,santa barbara,0,0,1,0,0,0,0,0,0
+huehuetenango,santa eulalia,0,0,1,0,0,0,0,0,0
+huehuetenango,santiago chimaltenango,0,0,1,0,0,0,0,0,0
+huehuetenango,tectitan,0,0,0,0,0,0,0,1,0
+huehuetenango,todos santos cuchumatan,0,0,1,0,0,0,0,0,0
+huehuetenango,union cantinil,0,0,0,1,0,0,0,0,0
+izabal,arapahoe viejo,0,0,0,0,0,0,0,0,1
+izabal,buenos aires,0,0,0,0,0,0,0,0,1
+izabal,cacao fronteras,0,0,0,0,0,0,0,0,1
+izabal,canaan,0,0,0,0,0,0,0,0,1
+izabal,chachagualilla,0,0,0,0,0,0,0,0,1
+izabal,champona,0,0,0,0,0,0,0,0,1
+izabal,chichipastor,0,0,0,0,0,0,0,0,1
+izabal,chinacadenas,0,0,0,0,0,0,0,0,1
+izabal,chinebal,0,0,0,0,0,0,0,0,1
+izabal,el bongo,0,0,0,0,0,0,0,0,1
+izabal,el estor,0,0,0,1,0,0,0,1,0
+izabal,el rico,0,0,0,0,0,0,0,0,1
+izabal,entre rios,0,0,0,0,0,0,0,0,1
+izabal,gran canon,0,0,0,0,0,0,0,0,1
+izabal,guitarras,0,0,0,0,0,0,0,0,1
+izabal,livingston,0,0,1,0,0,0,0,0,0
+izabal,livingston/ rio dulce,0,0,0,1,0,0,0,0,0
+izabal,los amates,0,0,1,0,0,0,0,0,0
+izabal,los angeles,0,0,0,0,0,0,0,0,1
+izabal,los cerritos,0,0,0,0,0,0,0,0,1
+izabal,mariscos,0,0,0,0,0,0,0,0,1
+izabal,media luna,0,0,0,0,0,0,0,0,1
+izabal,mixco,0,0,0,0,0,0,0,0,1
+izabal,mojanales,0,0,0,0,0,0,0,0,1
+izabal,morales,0,0,1,0,0,0,0,0,0
+izabal,morales/ navajoa,0,0,0,1,0,0,0,0,0
+izabal,pataxte,0,0,0,0,0,0,0,0,1
+izabal,playitas,0,0,0,0,0,0,0,0,1
+izabal,puerto barrios,0,0,0,1,0,0,1,1,0
+izabal,puerto barrios/ santo tomas de castilla,0,0,0,1,0,0,0,0,0
+izabal,punta manabique,0,0,0,0,0,0,0,0,1
+izabal,quirigua,0,0,0,0,0,0,0,0,1
+izabal,rio negro,0,0,0,0,0,0,0,0,1
+izabal,saila,0,0,0,0,0,0,0,0,1
+izabal,san jose alsacia,0,0,0,0,0,0,0,0,1
+izabal,searranx,0,0,0,0,0,0,0,0,1
+izabal,semox,0,0,0,0,0,0,0,0,1
+izabal,tamagas,0,0,0,0,0,0,0,0,1
+izabal,tenedores,0,0,0,0,0,0,0,0,1
+izabal,virginia,0,0,0,0,0,0,0,0,1
+izabal,xalibenque,0,0,0,0,0,0,0,0,1
+jalapa,jalapa,0,0,0,1,0,0,1,1,0
+jalapa,san jeronimo,0,0,0,1,0,0,0,0,0
+jutiapa,jutiapa,0,0,0,0,0,1,1,1,0
+peten,actela,0,0,0,0,0,0,0,0,1
+peten,cain,0,0,0,0,0,0,0,0,1
+peten,chacte,0,0,0,1,0,0,0,0,0
+peten,chinchila,0,0,0,0,0,0,0,0,1
+peten,dolores,0,0,0,1,0,0,0,0,0
+peten,el chal,0,0,0,1,0,0,0,0,0
+peten,el juleque,0,0,0,0,0,0,0,0,1
+peten,el mango,0,0,0,0,0,0,0,0,1
+peten,el naranjo,0,1,0,1,0,0,0,0,1
+peten,el ocote,0,0,0,0,0,0,0,0,1
+peten,flores,0,1,0,1,0,0,0,0,1
+peten,la balsa,0,0,0,0,0,0,0,0,1
+peten,la caoba,0,0,0,0,0,0,0,0,1
+peten,la libertad,0,0,1,0,0,0,0,0,1
+peten,las cruces,0,0,1,0,0,0,0,0,1
+peten,machaquilaito,0,0,0,0,0,0,0,0,1
+peten,melchor de mencos,0,1,0,0,0,0,0,1,1
+peten,nueva esperanza,0,1,0,1,0,0,0,0,1
+peten,nuevo horizonte,0,0,0,0,0,0,0,0,1
+peten,poptun,0,0,0,1,0,0,0,0,0
+peten,"san benito, peten",0,1,0,1,0,0,0,0,0
+peten,"san francisco, peten",0,1,0,1,0,0,0,0,0
+peten,san jose,0,1,0,1,0,0,0,0,1
+peten,san luis,0,0,0,1,0,0,0,0,0
+peten,santa amelia,0,0,0,0,0,0,0,0,1
+peten,santa ana,0,0,0,1,0,0,0,0,0
+peten,sayaxche,0,0,0,1,0,0,1,0,1
+peten,tierra blanca,0,0,0,1,0,0,0,0,1
+peten,trese aguas,0,0,0,0,0,0,0,0,1
+quetzaltenango,almolonga,0,0,0,1,0,0,0,0,0
+quetzaltenango,cabrican,0,0,0,0,0,0,0,1,0
+quetzaltenango,cajola,0,0,1,0,0,0,0,0,0
+quetzaltenango,cantel,0,0,0,1,0,0,0,0,0
+quetzaltenango,coatepeque,0,0,0,1,0,0,0,0,0
+quetzaltenango,colomba,0,0,0,1,0,0,0,0,0
+quetzaltenango,concepcion chiquirichapa,0,0,0,1,0,0,0,0,0
+quetzaltenango,el palmar,0,0,1,0,0,0,0,0,0
+quetzaltenango,flores cc,0,0,1,0,0,0,0,0,0
+quetzaltenango,genova,0,0,0,1,0,0,0,0,0
+quetzaltenango,huitan,0,0,0,1,0,0,0,0,0
+quetzaltenango,la esperanza,0,0,0,1,0,0,0,0,0
+quetzaltenango,olintepeque,0,0,0,1,0,0,0,0,0
+quetzaltenango,palestina de los altos,0,0,0,1,0,0,0,0,0
+quetzaltenango,quetzaltenango,0,0,0,1,0,1,1,1,0
+quetzaltenango,salcaja,0,0,0,1,0,0,0,0,0
+quetzaltenango,san francisco la union,0,0,0,1,0,0,0,0,0
+quetzaltenango,san juan ostuncalco,0,0,0,1,0,0,0,0,0
+quetzaltenango,san martin sacatepequez,0,0,1,0,0,0,0,0,0
+quetzaltenango,san mateo,0,0,0,1,0,0,0,0,0
+quetzaltenango,san miguel siguila,0,0,0,1,0,0,0,0,0
+quetzaltenango,sibilia,0,0,0,1,0,0,0,0,0
+quetzaltenango,sija,0,0,1,0,0,0,0,0,0
+quetzaltenango,zunil,0,0,0,1,0,0,0,0,0
+quiche,canilla,0,0,1,0,0,0,0,0,0
+quiche,chajul,0,0,0,1,0,0,0,1,0
+quiche,chicaman,0,0,1,0,0,0,0,0,0
+quiche,chiche,0,0,1,0,0,0,0,0,0
+quiche,chichicastenango,0,0,1,0,0,0,0,0,0
+quiche,chinique,0,0,1,0,0,0,0,0,0
+quiche,chupol,0,0,1,0,0,0,0,0,0
+quiche,cotzal,0,0,0,0,0,0,0,1,0
+quiche,cunen,0,0,1,0,0,0,0,0,0
+quiche,ingenieros,0,0,0,0,0,0,0,1,0
+quiche,joyabaj,0,0,0,1,0,0,0,0,0
+quiche,la parroquia,0,0,1,0,0,0,0,0,0
+quiche,nebaj,0,0,0,1,0,0,0,0,1
+quiche,pachalum,0,0,0,1,0,0,0,0,0
+quiche,patzite,0,0,1,0,0,0,0,0,0
+quiche,playa grande,0,0,0,0,0,0,0,1,0
+quiche,pueblo nuevo,0,0,0,0,0,0,0,1,0
+quiche,sacapulas,0,0,1,0,0,0,0,0,0
+quiche,san andres sajcabaja,0,0,1,0,0,0,0,0,0
+quiche,san antonio ilotenango,0,0,1,0,0,0,0,0,0
+quiche,san bartolome jocotenango,0,0,1,0,0,0,0,0,0
+quiche,san pedro jocopilas,0,0,1,0,0,0,0,0,0
+quiche,santa cruz,0,0,0,1,0,0,0,1,0
+quiche,santa cruz del quiche,0,0,0,0,0,0,1,1,0
+quiche,tzetun,0,0,0,0,0,0,0,1,0
+quiche,uspantan,0,0,0,1,0,0,0,0,0
+quiche,zacualpa,0,0,1,0,0,0,0,0,0
+retalhuleu,caballo blanco,0,0,0,1,0,0,0,1,1
+retalhuleu,champerico,0,0,1,0,0,0,0,1,1
+retalhuleu,el asintal,0,0,0,1,0,0,0,1,1
+retalhuleu,la maquina ii,0,0,0,1,0,0,0,1,1
+retalhuleu,nuevo san carlos,0,0,0,1,0,0,0,1,1
+retalhuleu,retalhuleu,0,0,0,1,0,0,1,2,1
+retalhuleu,san andres villa seca,0,0,0,1,0,0,0,1,1
+retalhuleu,san felipe,0,0,0,1,0,0,0,0,1
+retalhuleu,san martin zapotitlan,0,0,1,0,0,0,0,0,1
+retalhuleu,san sebastian,0,0,0,1,0,0,0,1,1
+retalhuleu,santa cruz mulua,0,0,0,1,0,0,0,1,1
+sacatepequez,antigua guatemala,0,0,0,1,0,0,0,0,0
+sacatepequez,san juan alotenango,0,0,0,1,0,0,0,0,0
+sacatepequez,santiago,0,0,0,1,0,0,0,0,0
+sacatepequez,sumpango,0,0,1,0,0,0,0,0,0
+san marcos,barranca de galvez,0,0,0,0,0,0,0,0,1
+san marcos,barranca grande el calvario,0,0,0,0,0,0,0,0,1
+san marcos,buena vista,0,0,0,0,0,0,0,0,1
+san marcos,buena vista nuevos horizontes,0,0,0,0,0,0,0,0,1
+san marcos,calapte,0,0,0,0,0,0,0,0,1
+san marcos,catarina,0,0,0,0,0,0,0,0,1
+san marcos,cerritos,0,0,0,0,0,0,0,0,1
+san marcos,chactela,0,0,0,0,0,0,0,0,1
+san marcos,chanchicupe,0,0,0,0,0,0,0,0,1
+san marcos,chayen,0,0,0,0,0,0,0,0,1
+san marcos,checamba,0,0,0,0,0,0,0,0,1
+san marcos,chim,0,0,0,0,0,0,0,0,1
+san marcos,chiquirines,0,0,0,0,0,0,0,0,1
+san marcos,choanla,0,0,0,0,0,0,0,0,1
+san marcos,chocabj,0,0,0,0,0,0,0,0,1
+san marcos,comitancillo,0,0,1,0,0,0,0,0,0
+san marcos,concepcion tutuapa,0,0,1,0,0,0,0,0,0
+san marcos,corral grande,0,0,0,0,0,0,0,0,1
+san marcos,cuya,0,0,0,0,0,0,0,0,1
+san marcos,el bojonal,0,0,0,0,0,0,0,0,1
+san marcos,el carmen frontera,0,0,0,0,0,0,0,0,1
+san marcos,el cedro,0,0,0,0,0,0,0,0,1
+san marcos,el quetzal,0,0,1,0,0,0,0,0,0
+san marcos,el sitio,0,0,0,0,0,0,0,0,1
+san marcos,el triunfo,0,0,0,0,0,0,0,0,1
+san marcos,el tumbador,0,0,0,1,0,0,0,0,0
+san marcos,escupija,0,0,0,0,0,0,0,0,1
+san marcos,esquipulas palo gordo,0,0,0,0,0,0,0,0,1
+san marcos,huispache,0,0,0,0,0,0,0,0,1
+san marcos,ixchiguan,0,0,0,1,0,0,0,1,0
+san marcos,ixmulca,0,0,0,0,0,0,0,0,1
+san marcos,la blanca,0,0,1,0,0,0,0,0,0
+san marcos,la democracia,0,0,0,0,0,0,0,0,1
+san marcos,la esperanza tuicoche,0,0,0,0,0,0,0,0,1
+san marcos,la fraternidad,0,0,0,0,0,0,0,0,1
+san marcos,la independencia,0,0,0,0,0,0,0,0,1
+san marcos,la reforma,0,0,1,0,0,0,0,0,0
+san marcos,la union,0,0,0,0,0,0,0,0,1
+san marcos,las majadas,0,0,0,0,0,0,0,0,1
+san marcos,las nubes chequin,0,0,0,0,0,0,0,0,1
+san marcos,los cerezos,0,0,0,0,0,0,0,0,1
+san marcos,malacatan,0,0,0,1,0,0,0,0,0
+san marcos,nuevo progreso,0,0,1,0,0,0,0,0,0
+san marcos,ocos,0,0,0,0,0,0,0,0,1
+san marcos,pajapita,0,0,1,0,0,0,0,0,0
+san marcos,pavolaj,0,0,0,0,0,0,0,0,1
+san marcos,provincia chiquita,0,0,0,0,0,0,0,0,1
+san marcos,pueblo nuevo,0,0,0,0,0,0,0,0,1
+san marcos,quipambe,0,0,0,0,0,0,0,0,1
+san marcos,rancho bojon,0,0,0,0,0,0,0,0,1
+san marcos,rio blanco,0,0,0,0,0,0,0,0,1
+san marcos,sacuchum dolores,0,0,0,0,0,0,0,0,1
+san marcos,san antonio,0,0,0,0,0,0,0,0,1
+san marcos,san antonio serchil,0,0,0,0,0,0,0,0,1
+san marcos,san fernando,0,0,0,0,0,0,0,0,1
+san marcos,san gregorio,0,0,0,0,0,0,0,0,1
+san marcos,san jeronimo,0,0,0,0,0,0,0,0,1
+san marcos,san jose el rodeo,0,0,1,0,0,0,0,0,0
+san marcos,san jose ixtal,0,0,0,0,0,0,0,0,1
+san marcos,san jose la paz,0,0,0,0,0,0,0,0,1
+san marcos,san jose las islas,0,0,0,0,0,0,0,0,1
+san marcos,san jose ojetenam,0,0,1,0,0,0,0,0,0
+san marcos,san lorenzo,0,0,1,0,0,0,0,0,0
+san marcos,san marcos,0,0,0,1,0,0,1,1,0
+san marcos,san miguel ixtahuacan,0,0,1,0,0,0,0,0,0
+san marcos,san pablo,0,0,0,1,0,0,0,0,0
+san marcos,san pablo toaca,0,0,0,0,0,0,0,0,1
+san marcos,san pedro,0,0,1,0,0,0,0,0,0
+san marcos,san pedro petz,0,0,0,0,0,0,0,0,1
+san marcos,san rafael,0,0,0,0,0,0,0,0,1
+san marcos,san rafael pie  de la cuesta,0,0,0,1,0,0,0,0,0
+san marcos,san sebastian,0,0,0,0,0,0,0,0,1
+san marcos,santa clara,0,0,0,0,0,0,0,0,1
+san marcos,santa rosa,0,0,0,0,0,0,0,0,1
+san marcos,santa teresa,0,0,0,0,0,0,0,0,1
+san marcos,santo domingo,0,0,0,0,0,0,0,0,1
+san marcos,sibinal,0,0,1,0,0,0,0,0,0
+san marcos,sicabe bella vista,0,0,0,0,0,0,0,0,1
+san marcos,sintana,0,0,0,0,0,0,0,0,1
+san marcos,sipacapa,0,0,1,0,0,0,0,0,0
+san marcos,sisiltepeque,0,0,0,0,0,0,0,0,1
+san marcos,sochel,0,0,0,0,0,0,0,0,1
+san marcos,subchal,0,0,0,0,0,0,0,0,1
+san marcos,tacana,0,0,1,0,0,0,0,0,0
+san marcos,tajumulco,0,0,1,0,0,0,0,0,0
+san marcos,tecun uman,0,0,0,0,0,0,0,1,0
+san marcos,tejutla,0,0,0,1,0,0,0,1,0
+san marcos,toninchun,0,0,0,0,0,0,0,0,1
+san marcos,totana,0,0,0,0,0,0,0,0,1
+san marcos,tuichuna,0,0,0,0,0,0,0,0,1
+san marcos,tuilelen,0,0,0,0,0,0,0,0,1
+san marcos,tuimuj,0,0,0,0,0,0,0,0,1
+san marcos,tuizmo,0,0,0,0,0,0,0,0,1
+san marcos,tutuapa,0,0,0,0,0,0,0,0,1
+san marcos,venecia,0,0,0,0,0,0,0,0,1
+santa rosa,barberena,0,0,0,1,0,0,0,0,1
+santa rosa,casillas,0,0,0,1,0,0,0,0,1
+santa rosa,chiquimulilla,0,0,0,1,0,0,0,0,1
+santa rosa,cuilapa,0,0,0,1,0,0,1,0,1
+santa rosa,guazacapan,0,0,0,1,0,0,0,0,1
+santa rosa,nueva santa rosa,0,0,0,1,0,0,0,0,1
+santa rosa,oratorio,0,0,0,1,0,0,0,0,1
+santa rosa,pueblo nuevo vinas,0,0,0,1,0,0,0,0,1
+santa rosa,san juan tecuaco,0,0,0,1,0,0,0,0,1
+santa rosa,san rafael las flores,0,0,0,1,0,0,0,0,1
+santa rosa,santa cruz naranjo,0,0,0,1,0,0,0,0,1
+santa rosa,santa maria ixhuatan,0,0,0,1,0,0,0,0,0
+santa rosa,santa maria ixhutan,0,0,0,0,0,0,0,1,1
+santa rosa,santa rosa de lima,0,0,0,1,0,0,0,0,1
+santa rosa,taxisco,0,0,0,1,0,0,0,0,1
+solola,canoas,0,0,0,0,0,0,0,0,1
+solola,chirijox,0,0,0,0,0,0,0,0,1
+solola,chuacruz,0,0,0,0,0,0,0,0,1
+solola,cipresales,0,0,0,0,0,0,0,0,1
+solola,concepcion,0,0,1,0,0,0,0,0,0
+solola,el mirador,0,0,0,0,0,0,0,0,1
+solola,godinez,0,0,0,0,0,0,0,0,1
+solola,jaibalito,0,0,0,0,0,0,0,0,1
+solola,la ceiba,0,0,0,0,0,0,0,0,1
+solola,los encuentros a,0,0,0,0,0,0,0,0,1
+solola,nahuala,0,0,1,0,0,0,0,0,0
+solola,nahuala / xejuyup,0,0,1,0,0,0,0,0,0
+solola,pacamache,0,0,0,0,0,0,0,0,1
+solola,pacanal,0,0,0,0,0,0,0,0,1
+solola,pachipac,0,0,0,0,0,0,0,0,1
+solola,paculam,0,0,0,0,0,0,0,0,1
+solola,palacal,0,0,0,0,0,0,0,0,1
+solola,pamezabal central,0,0,0,0,0,0,0,0,1
+solola,panajachel,0,0,1,0,0,0,0,0,0
+solola,panguiney,0,0,0,0,0,0,0,0,1
+solola,panyebar,0,0,0,0,0,0,0,0,1
+solola,paquila,0,0,0,0,0,0,0,0,1
+solola,pasaquijuyup,0,0,0,0,0,0,0,0,1
+solola,patzite ixtahuacan,0,0,0,0,0,0,0,0,1
+solola,patzutzun,0,0,0,0,0,0,0,0,1
+solola,pixabaj central,0,0,0,0,0,0,0,0,1
+solola,san andres semetabaj,0,0,0,0,0,0,0,0,1
+solola,san antonio chacaya,0,0,0,0,0,0,0,0,1
+solola,san antonio palopo,0,0,1,0,0,0,0,0,0
+solola,san jose chacaya,0,0,1,0,0,0,0,0,0
+solola,san juan argueta,0,0,0,0,0,0,0,0,1
+solola,san juan la laguna,0,0,1,0,0,0,0,0,0
+solola,san lucas toliman,0,0,1,0,0,0,0,0,0
+solola,san marcos la laguna,0,0,1,0,0,0,0,0,0
+solola,san miguelito,0,0,0,0,0,0,0,0,1
+solola,san pablo la laguna,0,0,1,0,0,0,0,0,0
+solola,san pedro la laguna,0,0,1,0,0,0,0,0,0
+solola,santa catarina ixtahuacan,0,0,0,0,0,0,0,1,0
+solola,santa clara la laguna,0,0,1,0,0,0,0,0,0
+solola,"santa cruz la laguna, tzununa",0,0,0,0,0,0,0,1,0
+solola,santa cruz la laguna.,0,0,1,0,0,0,0,0,0
+solola,santa lucia utatlan,0,0,1,0,0,0,0,0,0
+solola,santa maria visitacion,0,0,1,0,0,0,0,0,0
+solola,santiago atitlan,0,0,0,0,0,0,0,1,0
+solola,solola,0,0,1,0,0,0,1,1,0
+solola,sta catarina palopo,0,0,0,0,0,0,0,0,1
+solola,sta. catarina ixtaguacan/guineales,0,0,1,0,0,0,0,0,0
+solola,tablon central,0,0,0,0,0,0,0,0,1
+solola,tzamabaj,0,0,0,0,0,0,0,0,1
+solola,tzampoj,0,0,0,0,0,0,0,0,1
+solola,tzanchali,0,0,0,0,0,0,0,0,1
+solola,tzununa,0,0,0,0,0,0,0,0,1
+suchitepequez,aldea el guayabal,0,0,0,0,0,0,0,0,1
+suchitepequez,bolivia,0,0,0,0,0,0,0,0,1
+suchitepequez,brasitos,0,0,0,0,0,0,0,0,1
+suchitepequez,chicacao,0,0,0,1,0,0,0,1,0
+suchitepequez,chocola,0,0,0,0,0,0,0,0,1
+suchitepequez,cuyotenango,0,0,0,0,0,0,0,1,0
+suchitepequez,guatalon,0,0,0,0,0,0,0,0,1
+suchitepequez,japon nacional b,0,0,0,0,0,0,0,0,1
+suchitepequez,la campesina,0,0,0,0,0,0,0,0,1
+suchitepequez,la esperanza,0,0,0,0,0,0,0,0,1
+suchitepequez,la guadalupe,0,0,0,0,0,0,0,0,1
+suchitepequez,la vega,0,0,0,0,0,0,0,0,1
+suchitepequez,los tiestos,0,0,0,0,0,0,0,0,1
+suchitepequez,manelis,0,0,0,0,0,0,0,0,1
+suchitepequez,mazatenango,0,0,0,1,0,1,1,1,0
+suchitepequez,monterrey,0,0,0,0,0,0,0,0,1
+suchitepequez,morazan,0,0,0,0,0,0,0,0,1
+suchitepequez,nahualate,0,0,0,0,0,0,0,0,1
+suchitepequez,nueva venecia,0,0,0,0,0,0,0,0,1
+suchitepequez,patulul,0,0,0,0,0,0,0,1,1
+suchitepequez,pueblo nuevo,0,0,0,0,0,0,0,1,1
+suchitepequez,rio bravo,0,0,0,1,0,0,0,1,0
+suchitepequez,samayac,0,0,0,0,0,0,0,0,1
+suchitepequez,san antonio,0,0,1,0,0,0,0,1,0
+suchitepequez,san bernardino,0,0,0,0,0,0,0,0,1
+suchitepequez,san francisco pecul,0,0,0,0,0,0,0,0,1
+suchitepequez,san francisco zapotitlan,0,0,0,0,0,0,0,1,0
+suchitepequez,san gabriel,0,0,0,0,0,0,0,1,1
+suchitepequez,san jose churirin,0,0,0,0,0,0,0,0,1
+suchitepequez,san jose el idolo,0,0,0,1,0,0,0,0,0
+suchitepequez,san jose la maquina,0,0,0,0,0,0,0,1,0
+suchitepequez,san juan bautista,0,0,0,0,0,0,0,0,1
+suchitepequez,san lorenzo,0,0,0,0,0,0,0,1,1
+suchitepequez,san miguel panan,0,0,0,0,0,0,0,0,1
+suchitepequez,san pablo,0,0,0,0,0,0,0,0,1
+suchitepequez,san pedro cutzan,0,0,0,0,0,0,0,0,1
+suchitepequez,santa barbara,0,0,0,1,0,0,0,0,1
+suchitepequez,santo domingo,0,0,0,0,0,0,0,1,0
+suchitepequez,santo tomas la union,0,0,0,1,0,0,0,1,0
+suchitepequez,sector las cruces,0,0,0,0,0,0,0,0,1
+suchitepequez,tahuexco,0,0,0,0,0,0,0,0,1
+totonicapan,momostenango,0,0,0,0,0,0,0,1,1
+totonicapan,san andres xecul,0,0,1,0,0,0,0,0,1
+totonicapan,san bartolo aguas calientes,0,0,1,0,0,0,0,0,1
+totonicapan,san cristobal,0,0,1,0,0,0,0,0,0
+totonicapan,san cristobal totonicapan,0,0,0,0,0,0,0,0,1
+totonicapan,san fco el alto,0,0,1,0,0,0,0,0,0
+totonicapan,san francisco el alto,0,0,0,0,0,0,0,0,1
+totonicapan,san vicente buenabaj,0,0,0,0,0,0,0,1,1
+totonicapan,santa lucia la reforma,0,0,1,0,0,0,0,0,1
+totonicapan,santa maria chiquimula,0,0,0,0,0,0,0,0,1
+totonicapan,sta ma. chiquimula,0,0,1,0,0,0,0,0,0
+totonicapan,totonicapan,0,0,0,0,0,0,1,2,1
+zacapa,arco,0,0,0,0,0,0,0,0,1
+zacapa,bethel,0,0,0,0,0,0,0,0,1
+zacapa,cabanas,0,0,1,0,0,0,0,0,0
+zacapa,camalote,0,0,0,0,0,0,0,0,1
+zacapa,campanario oratorio,0,0,0,0,0,0,0,0,1
+zacapa,capucal chaguiton,0,0,0,0,0,0,0,0,1
+zacapa,capucalito,0,0,0,0,0,0,0,0,1
+zacapa,cari,0,0,0,0,0,0,0,0,1
+zacapa,chispan,0,0,0,0,0,0,0,0,1
+zacapa,el chico,0,0,0,0,0,0,0,0,1
+zacapa,el chile,0,0,0,0,0,0,0,0,1
+zacapa,el jute,0,0,0,0,0,0,0,0,1
+zacapa,el lobo,0,0,0,0,0,0,0,0,1
+zacapa,el rosario,0,0,0,0,0,0,0,0,1
+zacapa,el terrero,0,0,0,0,0,0,0,0,1
+zacapa,estanzuela,0,0,0,1,0,0,0,0,0
+zacapa,gualan,0,0,1,0,0,0,0,0,0
+zacapa,guapinol,0,0,0,0,0,0,0,0,1
+zacapa,guineal,0,0,0,0,0,0,0,0,1
+zacapa,huite,0,0,0,1,0,0,0,0,0
+zacapa,jones,0,0,0,0,0,0,0,0,1
+zacapa,juan ponce,0,0,0,0,0,0,0,0,1
+zacapa,la ensenada,0,0,0,0,0,0,0,0,1
+zacapa,la jigua,0,0,0,0,0,0,0,0,1
+zacapa,la laguna,0,0,0,0,0,0,0,0,1
+zacapa,la palmilla,0,0,0,0,0,0,0,0,1
+zacapa,la pepesca,0,0,0,0,0,0,0,0,1
+zacapa,la reforma,0,0,0,0,0,0,0,0,1
+zacapa,la union,0,0,0,1,0,0,0,0,0
+zacapa,lampocoy,0,0,0,0,0,0,0,0,1
+zacapa,las carretas,0,0,0,0,0,0,0,0,1
+zacapa,manzanotes,0,0,0,0,0,0,0,0,1
+zacapa,matasano,0,0,0,0,0,0,0,0,1
+zacapa,nuevo sunsapote,0,0,0,0,0,0,0,0,1
+zacapa,pampur,0,0,0,0,0,0,0,0,1
+zacapa,pena blanca,0,0,0,0,0,0,0,0,1
+zacapa,pueblo nuevo,0,0,0,0,0,0,0,0,1
+zacapa,rio hondo,0,0,0,1,0,0,0,0,0
+zacapa,roblarcito,0,0,0,0,0,0,0,0,1
+zacapa,san diego,0,0,0,1,0,0,0,0,0
+zacapa,san jorge,0,0,0,1,0,0,0,0,0
+zacapa,san jose,0,0,0,0,0,0,0,0,1
+zacapa,san miguel,0,0,0,0,0,0,0,0,1
+zacapa,san nicolas,0,0,0,0,0,0,0,0,1
+zacapa,sanpablo,0,0,0,0,0,0,0,0,1
+zacapa,santa cruz,0,0,0,0,0,0,0,0,1
+zacapa,santa lucia,0,0,0,0,0,0,0,0,1
+zacapa,santa rosalia,0,0,0,0,0,0,0,0,1
+zacapa,santa teresa iguana,0,0,0,0,0,0,0,0,1
+zacapa,sompopero,0,0,0,0,0,0,0,0,1
+zacapa,tasharte,0,0,0,0,0,0,0,0,1
+zacapa,teculutan,0,0,0,1,0,0,0,0,0
+zacapa,trementina,0,0,0,0,0,0,0,0,1
+zacapa,usumatlan,0,0,0,1,0,0,0,0,0
+zacapa,vega de coban,0,0,0,0,0,0,0,0,1
+zacapa,zacapa,0,0,0,1,0,0,1,1,0
