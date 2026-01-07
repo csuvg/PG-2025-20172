@@ -1,0 +1,135 @@
+MUNICIPIO_NORM_MATCH,DEPARTAMENTO_NORM,count_municipio,count_departamento
+fray bartolome de las casas,alta verapaz,1,7
+la tinta,alta verapaz,1,7
+san juan chamelco,alta verapaz,1,7
+Tucurú,alta verapaz,1,7
+Cahabón,alta verapaz,1,7
+senahu,alta verapaz,1,7
+"tactic, alta verapaz",alta verapaz,1,7
+acatenango,chimaltenango,1,13
+el tejar,chimaltenango,1,13
+patzicia,chimaltenango,1,13
+patzun,chimaltenango,1,13
+san andres itzapa,chimaltenango,1,13
+san jose calderas,chimaltenango,1,13
+san jose poaquil,chimaltenango,1,13
+san juan comalapa,chimaltenango,1,13
+san pedro yepocapa,chimaltenango,1,13
+Santa Cruz Balanyá,chimaltenango,1,13
+"santa isabel, chimaltenango",chimaltenango,1,13
+tecpan,chimaltenango,1,13
+zaragoza,chimaltenango,1,13
+Chiquimulilla,chiquimula,1,1
+el rancho,el progreso,1,4
+san antonio la paz,el progreso,1,4
+"sanarate, el progreso",el progreso,1,4
+sansare,el progreso,1,4
+la democracia,escuintla,1,3
+Masagua,escuintla,1,3
+San José,escuintla,1,3
+"aldea el fiscal, palencia",guatemala,1,35
+"amatitlan, guatemala",guatemala,1,35
+barcenas,guatemala,1,35
+chuarrancho,guatemala,1,35
+ciudad peronia,guatemala,1,35
+fraijanes,guatemala,1,35
+Palencia,guatemala,1,35
+san jose la comunidad,guatemala,1,35
+san juan sac. ciudad quetzal,guatemala,1,35
+san miguel petapa,guatemala,1,35
+santa ines petapa,guatemala,1,35
+"santa isabel, villa nueva",guatemala,1,35
+villa hermosa,guatemala,1,35
+huehuetenango,huehuetenango,1,1
+"livingston, izabal",izabal,1,1
+monjas,jalapa,1,2
+san carlos alzatate,jalapa,1,2
+"agua blanca, jutiapa",jutiapa,1,9
+"atescatempa, jutiapa",jutiapa,1,9
+ciudad pedro de alvarado,jutiapa,1,9
+comapa,jutiapa,1,9
+conguaco,jutiapa,1,9
+jalpatagua,jutiapa,1,9
+moyuta,jutiapa,1,9
+pasaco,jutiapa,1,9
+"santa catarina mita, jutiapa",jutiapa,1,9
+dolores peten,peten,1,3
+melchor de mencos,peten,1,3
+sayaxche,peten,1,3
+coatepeque,quetzaltenango,1,7
+genova,quetzaltenango,1,7
+"las delicias, colomba",quetzaltenango,1,7
+olintepeque,quetzaltenango,1,7
+palestina de los altos,quetzaltenango,1,7
+salcaja,quetzaltenango,1,7
+san miguel siguila,quetzaltenango,1,7
+camanchaj,quiche,1,9
+chicaman,quiche,1,9
+chichicastenango,quiche,1,9
+"chiul, quiche",quiche,1,9
+cunen,quiche,1,9
+san andres sajcabaja,quiche,1,9
+san pedro jocopilas,quiche,1,9
+santa cruz del quiche,quiche,1,9
+santo tomas chiche,quiche,1,9
+san felipe retalhuleu,retalhuleu,1,2
+santa cruz mulua,retalhuleu,1,2
+asonbomd,sacatepequez,1,13
+ciudad vieja,sacatepequez,1,13
+jocotenango,sacatepequez,1,13
+la antigua guatemala,sacatepequez,1,13
+magdalena m.a.,sacatepequez,1,13
+pastores,sacatepequez,1,13
+san antonio aguas c.,sacatepequez,1,13
+san bartolome m.a.,sacatepequez,1,13
+san miguel duenas,sacatepequez,1,13
+santa lucia milpas altas,sacatepequez,1,13
+santiago sacatepequez,sacatepequez,1,13
+santo domingo xenacoj,sacatepequez,1,13
+sumpango,sacatepequez,1,13
+aldea el chayen,san marcos,1,19
+aldea el tocache,san marcos,1,19
+"catarina, san marcos",san marcos,1,19
+concepcion tutuata,san marcos,1,19
+"el porvenir, san pablo",san marcos,1,19
+el tumbador,san marcos,1,19
+"la blanca, ocos, s.m.",san marcos,1,19
+nuevo progreso,san marcos,1,19
+pajapita,san marcos,1,19
+san antonio sac. s.m.,san marcos,1,19
+san jose el rodeo s.a.,san marcos,1,19
+san marcos,san marcos,1,19
+san miguel ixtahuacan,san marcos,1,19
+San Pablo,san marcos,1,19
+san pedro sac. s.m.,san marcos,1,19
+sibinal,san marcos,1,19
+sipacapa,san marcos,1,19
+tacana,san marcos,1,19
+tejutla,san marcos,1,19
+"ayarza, santa rosa",santa rosa,1,8
+casillas,santa rosa,1,8
+Chiquimulilla,santa rosa,1,8
+monterrico,santa rosa,1,8
+san rafael las flores,santa rosa,1,8
+santa rosa de lima,santa rosa,1,8
+"sector playa, chuquimulilla",santa rosa,1,8
+taxisco,santa rosa,1,8
+san juan argueta,solola,1,2
+santa lucia utatlan,solola,1,2
+chicacao,suchitepequez,1,10
+cuyotenango,suchitepequez,1,10
+patulul,suchitepequez,1,10
+san antonio such.,suchitepequez,1,10
+san jose la maquina,suchitepequez,1,10
+san lorenzo,suchitepequez,1,10
+san miguel panan,suchitepequez,1,10
+santa barbara,suchitepequez,1,10
+santo tomas la union,suchitepequez,1,10
+zunilito,suchitepequez,1,10
+san francisco el alto,totonicapan,1,2
+totonicapan,totonicapan,1,2
+huite,zacapa,1,4
+la union zacapa,zacapa,1,4
+rio hondo,zacapa,1,4
+usumatlan,zacapa,1,4
+guatemala,guatemala,22,35
